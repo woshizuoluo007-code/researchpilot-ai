@@ -1,0 +1,11 @@
+
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pdf
+app_day2_backup.py
